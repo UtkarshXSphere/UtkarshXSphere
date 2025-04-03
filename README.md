@@ -3,7 +3,7 @@
 ## 🚀 Passionate Software Developer | Web Enthusiast | Tech Explorer  
 
 ### 🛠 About Me  
-I'm a **Full stack developer** with a deep love for crafting beautiful, user-friendly, and high-performance web applications. With a strong grasp of modern UI/UX principles, I specialize in creating seamless digital experiences. While frontend is my forte, I also keep an edge over backend technologies to build well-rounded, scalable applications.  
+Welcome to my sphere, I'm a **Full stack developer** with a deep love for crafting beautiful, user-friendly, and high-performance web applications. With a strong grasp of modern UI/UX principles, I specialize in creating seamless digital experiences. While frontend is my forte, I also keep an edge over backend technologies to build well-rounded, scalable applications.  
 
 ### 🔥 What Drives Me?  
 - **Pixel-perfect designs** 🎨 – because aesthetics matter!  
